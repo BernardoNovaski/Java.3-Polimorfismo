@@ -11,7 +11,6 @@ public class TestaFuncionario {
 		System.out.println(nico.getNome());
 		System.out.println(nico.getBonificacao());
 		
-		System.out.println("TestandoSalvamento");
 		
 	}
 
